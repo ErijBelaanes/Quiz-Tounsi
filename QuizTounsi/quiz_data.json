@@ -1,0 +1,372 @@
+{
+    "Food": [
+        {
+            "question": "What Tunisian food will a 40-year-old mother cook on a rainy day?\u26c8\ufe0f",
+            "options": [
+                "Fish & chips \ud83d\udc1f\ud83c\udf5f",
+                "Vegetables noodles \ud83c\udf5c",
+                "Mhamesa \ud83c\udf72"
+            ],
+            "answer": "Mhamesa \ud83c\udf72"
+        },
+        {
+            "question": "You\u2019re fasting in Ramadan and can\u2019t wait for Ftour. What\u2019s the first thing most Tunisian families eat?\ud83d\udc68\ud83c\udffc\u200d\ud83d\udc69\ud83c\udffc\u200d\ud83d\udc67\ud83c\udffc\u200d\ud83d\udc66\ud83c\udffc",
+            "options": [
+                "Brik \ud83e\udd5f",
+                "Sushi \ud83c\udf63",
+                "Samsa \ud83e\udd60"
+            ],
+            "answer": "Brik \ud83e\udd5f"
+        },
+        {
+            "question": "In a \ud83c\udf89Tunisian wedding\ud83c\udf89, what dish is the star of the night?",
+            "options": [
+                "Lablabi \ud83e\udd63",
+                "Pizza Tunisienne \ud83c\udf55",
+                "Couscous with meat \ud83c\udf72"
+            ],
+            "answer": "Couscous with meat \ud83c\udf72"
+        },
+        {
+            "question": "On a rainy morning, what food would a construction worker eat before going to work? \u26c8\ufe0f",
+            "options": [
+                "Croissant \ud83e\udd50",
+                "Bssisa\ud83c\udf72",
+                "Dro3 \ud83e\udd63"
+            ],
+            "answer": "Dro3 \ud83e\udd63"
+        },
+        {
+            "question": "Which spicy condiment\ud83e\udd75 is in almost every Tunisian dish?",
+            "options": [
+                "Ketchup \ud83e\udd6b",
+                "Harissa \ud83c\udf36",
+                "Mayonnaise \ud83e\udd5a"
+            ],
+            "answer": "Harissa \ud83c\udf36"
+        },
+        {
+            "question": "Which Tunisian sweet is also a symbol of hospitality and is offered to guests?\ud83c\udf6c\ud83d\ude0b",
+            "options": [
+                "Chocolate mousse \ud83c\udf6b",
+                "Tiramisu \ud83c\udf70",
+                "Baklawa \ud83e\udd6e"
+            ],
+            "answer": "Baklawa \ud83e\udd6e"
+        },
+        {
+            "question": "Which sweet is made with dates, almonds, and often served during Ramadan?",
+            "options": [
+                "Brioche \ud83e\udd50",
+                "Samsa",
+                "Makroud \ud83e\udd6e"
+            ],
+            "answer": "Makroud \ud83e\udd6e"
+        },
+        {
+            "question": "Which Tunisian bread is traditionally baked in a clay oven?",
+            "options": [
+                "Tabouna \ud83e\uded3",
+                "Pita bread \ud83e\uded3",
+                "French baguette \ud83e\udd56"
+            ],
+            "answer": "Tabouna \ud83e\uded3"
+        }
+    ],
+    "Geography": [
+        {
+            "question": "Which Tunisian city is famous for Harissa\ud83c\udf36?",
+            "options": [
+                "Nabeul",
+                "Tozeur",
+                "Kairouan"
+            ],
+            "answer": "Nabeul"
+        },
+        {
+            "question": "Which Tunisian region is famous for its vast Sahara desert landscapes and oasis? \ud83c\udfdc\ufe0f",
+            "options": [
+                "Tozeur",
+                "Bizerte",
+                "Sfax"
+            ],
+            "answer": "Tozeur"
+        },
+        {
+            "question": "If you want to see houses\ud83c\udfe0 built inside caves\u26f0\ufe0f, where should you go?",
+            "options": [
+                "Carthage",
+                "Sidi Bou Sa\u00efd",
+                "Matmata"
+            ],
+            "answer": "Matmata"
+        },
+        {
+            "question": "Which Tunisian island is famous for its sandy beaches and luxurious resorts\ud83c\udfdd\ufe0f?",
+            "options": [
+                "Djerba",
+                "Kerkennah",
+                "Galite Islands"
+            ],
+            "answer": "Djerba"
+        },
+        {
+            "question": "You want the best dates in Tunisia. Which region are you heading to?\ud83e\udd14",
+            "options": [
+                "Gabes",
+                "Touzeur",
+                "Bizerte"
+            ],
+            "answer": "Touzeur"
+        },
+        {
+            "question": "Which Tunisian city is famous for its blue-painted doors and white streets\ud83c\udfe0\ud83d\udd35\ud83c\udf0a?",
+            "options": [
+                "Sidi Bou Said",
+                "La Marsa",
+                "Mahdia"
+            ],
+            "answer": "Sidi Bou Said"
+        },
+        {
+            "question": "The ancient ruins of Carthage are located near which modern city?\ud83c\udfdb\ufe0f",
+            "options": [
+                "Tunis",
+                "Sfax",
+                "Bizerte"
+            ],
+            "answer": "Tunis"
+        },
+        {
+            "question": "Which Tunisian city is known for its ancient amphitheater, one of the best preserved in the world?\ud83c\udfdb\ufe0f",
+            "options": [
+                "El Djem",
+                "Kairouan",
+                "Carthage"
+            ],
+            "answer": "El Djem"
+        }
+    ],
+    "Known_Celebrities": [
+        {
+            "question": "Who is the famous Tunisian tennis player\ud83c\udfbe known worldwide and nicknamed \u201cMinister of Happiness\u201d?",
+            "options": [
+                "Selima Sfar",
+                "Ons Jabeur",
+                "Nada Mezni Hafaiedh"
+            ],
+            "answer": "Ons Jabeur"
+        },
+        {
+            "question": "Which sport brought Ahmed Jaouadi fame in Tunisia and earned him a spot representing his country at the Olympics\ud83e\udd47?",
+            "options": [
+                "Football \u26bd\ud83c\uddf9\ud83c\uddf3",
+                "Swimming \ud83c\udfca",
+                "Basketball \ud83c\udfc0"
+            ],
+            "answer": "Swimming \ud83c\udfca"
+        },
+        {
+            "question": "Which Tunisian comedian is famous for his humorous sketches and social satire? \ud83d\ude02\ud83c\udfad",
+            "options": [
+                "Karim Gharbi",
+                "Hichem Rostom",
+                "Nidhal Saadi"
+            ],
+            "answer": "Karim Gharbi"
+        },
+        {
+            "question": "Which sport is most loved in Tunisia?",
+            "options": [
+                "Football \u26bd\ud83c\uddf9\ud83c\uddf3",
+                "Handball \ud83e\udd3e",
+                "Basketball \ud83c\udfc0"
+            ],
+            "answer": "Football \u26bd\ud83c\uddf9\ud83c\uddf3"
+        },
+        {
+            "question": "Which Tunisian actress played in \ud83c\udfacEgyptian movies\ud83c\udfad and became a star across the Arab world?",
+            "options": [
+                "Hend Sabri",
+                "Rim Riahi",
+                "Julia Roberts"
+            ],
+            "answer": "Hend Sabri"
+        },
+        {
+            "question": "Which Tunisian singer is known for patriotic songs and folk music?",
+            "options": [
+                "Balti \ud83d\ude0e\ud83c\udfa4\ud83c\uddf9\ud83c\uddf3",
+                "Emel Mathlouthi \ud83d\udc69\u200d\ud83c\udfa4\ud83c\udfa4",
+                "Hedi Jouini \ud83d\udc74\ud83c\udfa4\ud83c\uddf9\ud83c\uddf3"
+            ],
+            "answer": "Hedi Jouini \ud83d\udc74\ud83c\udfa4\ud83c\uddf9\ud83c\uddf3"
+        },
+        {
+            "question": "What is Samy Chaffai, the famous Tunisian, known for?\ud83c\udfa5\ud83c\udf0d",
+            "options": [
+                "Singer \ud83c\udfa4",
+                "Content creator and filmmaker \ud83c\udfac",
+                "Footballer \u26bd"
+            ],
+            "answer": "Content creator and filmmaker \ud83c\udfac"
+        },
+        {
+            "question": "Mouna Noureddine is best known for her work in which field?\ud83c\udfad",
+            "options": [
+                "Politics \ud83c\udfdb\ufe0f",
+                "Acting \ud83c\udfac",
+                "Singing \ud83c\udfa4"
+            ],
+            "answer": "Acting \ud83c\udfac"
+        }
+    ],
+    "TV_Series": [
+        {
+            "question": "Who is the main character of Choufli Hal\ud83e\udd2d\ud83d\ude09?",
+            "options": [
+                "Slimane",
+                "Douja",
+                "Sbou3i"
+            ],
+            "answer": "Sbou3i"
+        },
+        {
+            "question": "If your mom says \u201cDon\u2019t change the channel, I\u2019m watching Choufli Hal\u201d, what do you do?",
+            "options": [
+                "Take the remote\ud83d\udcfa\ud83c\udf9b and run\ud83c\udfc3",
+                "\ud83e\ude74Obey\ud83e\ude74",
+                "Negotiate with chocolate\ud83c\udf6b"
+            ],
+            "answer": "\ud83e\ude74Obey\ud83e\ude74"
+        },
+        {
+            "question": "Who plays the character of Douja in 'Choufli Hal'?\ud83d\udc69",
+            "options": [
+                "Sonia Ben Cheikh",
+                "Dorra Zarrouk",
+                "Rim Riahi"
+            ],
+            "answer": "Sonia Ben Cheikh"
+        },
+        {
+            "question": "In 'Nsibti Laaziza', who drives Baboucha crazy?\ud83d\ude02",
+            "options": [
+                "Khmissa & El Fehim \ud83d\udc69\u200d\ud83e\uddb0\ud83d\udc68\u200d\ud83e\uddb0",
+                "His customers \ud83d\udecd",
+                "Bad news \ud83c\udf99"
+            ],
+            "answer": "Khmissa & El Fehim \ud83d\udc69\u200d\ud83e\uddb0\ud83d\udc68\u200d\ud83e\uddb0"
+        },
+        {
+            "question": "Which TV series features the daily life of Tunisian families in humorous situations?\ud83c\udfe0\ud83d\ude02",
+            "options": [
+                "Choufli Hal \ud83e\udd2d",
+                "El Khottab Al Bab \ud83c\udfe0",
+                "Nsibti Laaziza \ud83d\udc8d"
+            ],
+            "answer": "Choufli Hal \ud83e\udd2d"
+        },
+        {
+            "question": "Which Tunisian TV series is famous for its Ramadan special episodes and drama?\ud83c\udf19\ud83d\udcfa",
+            "options": [
+                "Maktoub \ud83d\udcdc",
+                "Choufli Hal \ud83e\udd2d",
+                "El Khottab Al Bab \ud83c\udfe0"
+            ],
+            "answer": "El Khottab Al Bab \ud83c\udfe0"
+        },
+        {
+            "question": "What is Ammar known for in 'Bolice' besides solving crimes?\ud83d\ude02",
+            "options": [
+                "Always eating while on duty \ud83c\udf55",
+                "Chicken wings \ud83c\udf57",
+                "Being strict \ud83d\ude0e"
+            ],
+            "answer": "Chicken wings \ud83c\udf57"
+        },
+        {
+            "question": "In 'Jari Ya Hamoudi', what does Hamouda do in life?",
+            "options": [
+                "A lawyer \u2696\ufe0f",
+                "Unemployed \ud83d\ude05",
+                "Fish seller \ud83d\udc1f"
+            ],
+            "answer": "Fish seller \ud83d\udc1f"
+        }
+    ],
+    "Clothing": [
+        {
+            "question": "What is the traditional Tunisian hat, usually red and worn proudly by men, called?",
+            "options": [
+                "Koufia",
+                "Sombrero",
+                "Chechia"
+            ],
+            "answer": "Chechia"
+        },
+        {
+            "question": "What is the traditional Tunisian Farmla? \ud83d\udc57\u2728",
+            "options": [
+                "A richly decorated vest worn by women",
+                "A type of traditional hat for men",
+                "A Tunisian sandal style"
+            ],
+            "answer": "A richly decorated vest worn by women"
+        },
+        {
+            "question": "On Eid morning\ud83d\udd4c, what will your grandpa absolutely refuse to leave the house without?",
+            "options": [
+                "His jogging suit",
+                "His jebba",
+                "His football jersey"
+            ],
+            "answer": "His jebba"
+        },
+        {
+            "question": "What is the name of the veil that aunt Fadila (Choufli Hal) wears when she goes to the market?\ud83e\uddd5",
+            "options": [
+                "Sefsari",
+                "Hijab",
+                "Chechia"
+            ],
+            "answer": "Sefsari"
+        },
+        {
+            "question": "What type of footwear is traditionally worn with the jebba or Sefsari?\ud83d\udc5e",
+            "options": [
+                "Balgha",
+                "Sneakers",
+                "Flip-flops"
+            ],
+            "answer": "Balgha"
+        },
+        {
+            "question": "Which piece of clothing is guaranteed to make a Tunisian aunt comment, 'You can\u2019t go out like that!'\ud83d\ude02",
+            "options": [
+                "Ripped jeans \ud83d\udc56",
+                "Fancy dress \ud83d\udc57",
+                "Traditional karako \ud83d\udfe3"
+            ],
+            "answer": "Ripped jeans \ud83d\udc56"
+        },
+        {
+            "question": "What is a 'Barnous' in Tunisia?\ud83e\udde5",
+            "options": [
+                "A traditional hooded cloak worn by men",
+                "A type of hat",
+                "A sandal style"
+            ],
+            "answer": "A traditional hooded cloak worn by men"
+        },
+        {
+            "question": "It's your cousin's wedding\u2014what's the first thing that comes to your mind to wear at her Henna party?\ud83d\udc83",
+            "options": [
+                "Blouza and Fouta",
+                "Green dress",
+                "A pair of jeans"
+            ],
+            "answer": "Blouza and Fouta"
+        }
+    ]
+}
